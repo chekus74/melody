@@ -1,2 +1,2 @@
-# melody
-учебный проект Glo Academy
+# melody учебный проект Glo Academy
+## Проект выполнил: Сергей Чекус
